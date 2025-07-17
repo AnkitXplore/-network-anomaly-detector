@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+venv310/
+.env
+.env.*
+
+# Data and model files
+*.csv
+*.joblib
+
+# OS generated files
+.DS_Store
+Thumbs.db 
