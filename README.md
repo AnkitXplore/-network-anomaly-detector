@@ -1,3 +1,13 @@
+# CyberShield Pro - AI Network Security
+
+---
+
+**🔗 [Download All Project Files from Google Drive](https://drive.google.com/drive/folders/1mIkieZtXxDGVyi6es_Xh83zjVKoMJV7f?usp=drive_link)**
+
+> This Google Drive folder contains all the files required to run the project, including models, datasets, and any additional resources.
+
+---
+
 # Network Traffic Anomaly Detection + AI Chatbot
 
 ![Network Anomaly Detection Banner](https://imgur.com/LkDpz9V.png)
