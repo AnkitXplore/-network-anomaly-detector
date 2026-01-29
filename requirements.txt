@@ -1,5 +1,9 @@
 streamlit
-scikit-learn==1.7.0
-joblib
-pandas
 numpy
+pandas
+scikit-learn
+joblib
+openai
+streamlit-chat
+matplotlib
+seaborn
