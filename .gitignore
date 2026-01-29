@@ -21,7 +21,6 @@ venv310/
 
 # Data and model files
 *.csv
-*.joblib
 
 # OS generated files
 .DS_Store
